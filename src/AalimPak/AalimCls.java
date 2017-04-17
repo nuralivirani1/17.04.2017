@@ -33,6 +33,8 @@ public class AalimCls {
 	
 	driver.findElement(By.id("u_0_h")).click();
 	
+	driver.quit();
+	
 	
 
 
